@@ -1,0 +1,8 @@
+# デバイスID (Cumulocityが払い出したID)
+deviceId: "******"
+# CumulocityへのログインID
+userId: "******"
+# Cumulocityへのログインパスワード
+password:  "******"
+# CumulocityのURL
+url: "******"
